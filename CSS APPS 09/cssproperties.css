@@ -1,0 +1,20 @@
+h1 {
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 200px;
+    text-align: center;
+   border: 10px solid green;
+   padding: 60px;
+   margin-left: 50px;
+   margin-right: 50px;
+   margin-top: 60px;
+}
+
+body {
+    width: 90%;
+    height: 70vh;
+    background-image: url("./images/pic1.jpg");
+    background-position: center;
+    background-size: cover;
+    background: burlywood url("./images/pic1.jpg") center;
+}

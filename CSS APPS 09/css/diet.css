@@ -1,0 +1,21 @@
+h2 {
+    background: lightgreen;
+    text-align: center;
+    padding: 50px 50px;
+    height: 50px;
+}
+nav,a {
+    background-color: lightpink;
+    padding-left: 60px;
+    margin-right: 1000px;
+    height: 300px;
+    text-decoration: none;
+}
+section {
+    background-color: aqua;
+}
+footer {
+    background-color: violet;
+    text-align: center;
+    height: 100px;
+}

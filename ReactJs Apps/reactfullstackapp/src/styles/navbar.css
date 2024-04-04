@@ -1,0 +1,20 @@
+.nav {
+    background-color: aqua;
+    padding: 20px 40px;
+}
+
+.nav ul {
+    display: flex;
+
+}
+.nav ul li {
+list-style-type: none;
+}
+
+.nav ul li a {
+    text-decoration: none;
+}
+
+.navbar {
+    justify-content: space-between;
+}
